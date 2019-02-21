@@ -18,7 +18,7 @@ int main(void){
 		_delay_ms(500); 
 		PORTD = 0b00011000; //0x18   
 		_delay_ms(500); 	
-    }
+  }
    
   return 0;
 }
